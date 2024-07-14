@@ -1,4 +1,4 @@
-# Ids.DevFest2024
+# De l'intuition à l'expertise : adoptez un développement piloté par le métier
 
 ## Abstract
 
